@@ -6,7 +6,8 @@ experience working with lua and the roblox engine.
 - he/him/his pronouns
 - mlm
 
-i also run a script called `choco`
+i also run a script called [choco](https://chocopublic.vercel.app) (🔑)
+runs on: psm, madium, opiumware, macsploit and delta.
 ```lua
 --               88                                                
 --               88                                                
@@ -17,7 +18,8 @@ i also run a script called `choco`
 --   "8a,   ,aa  88       88  "8a,   ,a8"  "8a,   ,aa  "8a,   ,a8" 
 --    `"Ybbd8"'  88       88   `"YbbdP"'    `"Ybbd8"'   `"YbbdP"'    by irib
 
--- if you want to skip the keysystem, you can buy adless for 5£ in my discord
+-- if you want to skip the keysystem, (1 checkpoint/week)
+-- you can buy adless for 5£ in my discord.
 -- see scriptblox for supported games
 
 local choco = "https://raw.githubusercontent.com/justirib/justirib/refs/heads/main/choco.lua"
